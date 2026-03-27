@@ -14,6 +14,15 @@
 
 ---
 
+## 📸 Screenshots
+
+<div align="center">
+  <img src="ScreenShots/screenshot1.png" width="48%" alt="FitGen Screenshot 1" />
+  <img src="ScreenShots/screenshot2.png" width="48%" alt="FitGen Screenshot 2" />
+</div>
+
+---
+
 ## ✨ Key Features
 
 - **⚡ AI Stylist**: Generate smart outfit recommendations based on your unique collection.
